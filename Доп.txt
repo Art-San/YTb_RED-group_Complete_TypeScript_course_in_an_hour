@@ -1,0 +1,9 @@
+1.
+tsc --version // проверка версии TypeScript
+npm install -g typescript // установка TypeScript глобально
+
+2. Компиляция
+tsc main.ts
+
+3. 
+tsc --init tsconfig.json
